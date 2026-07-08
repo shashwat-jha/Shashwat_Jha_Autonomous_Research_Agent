@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Research Agent",
+  "description": "An autonomous AI agent that searches external web sources, synthesizes relevant findings, extracts references, and generates clean structured summaries and actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
