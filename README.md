@@ -2,8 +2,6 @@
 
 An autonomous AI agent designed to perceive its environment, formulate target search strategies, search multiple external websites/APIs, filter and deduplicate content, and generate complete, highly structured reports with actionable insights and citations.
 
-This solution satisfies **Assessment Option 1: Autonomous Research Agent** for the **AI Automation Engineer** opportunity at **Xiarch Solutions Pvt. Ltd.**
-
 ---
 
 ## 🚀 Key Features
